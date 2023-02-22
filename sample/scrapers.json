@@ -1,23 +1,23 @@
 {
    "1":[
-      "https://raw.githubusercontent.com/lalitjoshi06/Scrapers/main/en_Torrent/Bitsearch.json",
-      "https://raw.githubusercontent.com/lalitjoshi06/Scrapers/main/en_Torrent/animetosho.json",
-      "https://raw.githubusercontent.com/lalitjoshi06/Scrapers/main/en_Torrent/nyaa.json",
-      "https://raw.githubusercontent.com/lalitjoshi06/Scrapers/main/en_Torrent/1337x.json",
-      "https://raw.githubusercontent.com/lalitjoshi06/Scrapers/main/en_Torrent/piratebay.json",
-      "https://raw.githubusercontent.com/lalitjoshi06/Scrapers/main/en_Torrent/rarbg.json",
-      "https://raw.githubusercontent.com/lalitjoshi06/Scrapers/main/en_Torrent/eztv.json",
-      "https://raw.githubusercontent.com/lalitjoshi06/Scrapers/main/en_Torrent/rutor.json"
+      "https://raw.githubusercontent.com/kylecueters/Scrapers/main/en_Torrent/Bitsearch.json",
+      "https://raw.githubusercontent.com/kylecueters/Scrapers/main/en_Torrent/animetosho.json",
+      "https://raw.githubusercontent.com/kylecueters/Scrapers/main/en_Torrent/nyaa.json",
+      "https://raw.githubusercontent.com/kylecueters/Scrapers/main/en_Torrent/1337x.json",
+      "https://raw.githubusercontent.com/kylecueters/Scrapers/main/en_Torrent/piratebay.json",
+      "https://raw.githubusercontent.com/kylecueters/Scrapers/main/en_Torrent/rarbg.json",
+      "https://raw.githubusercontent.com/kylecueters/Scrapers/main/en_Torrent/eztv.json",
+      "https://raw.githubusercontent.com/kylecueters/Scrapers/main/en_Torrent/rutor.json"
    ],
    "2":[
-      "https://raw.githubusercontent.com/lalitjoshi06/Scrapers/main/en_Torrent/magnetdl.json",
-      "https://raw.githubusercontent.com/lalitjoshi06/Scrapers/main/en_Torrent/torrentgalaxy.json",
-      "https://raw.githubusercontent.com/lalitjoshi06/Scrapers/main/en_Torrent/kickass.json",
-      "https://raw.githubusercontent.com/lalitjoshi06/Scrapers/main/en_Torrent/solid.json"
+      "https://raw.githubusercontent.com/kylecueters/Scrapers/main/en_Torrent/magnetdl.json",
+      "https://raw.githubusercontent.com/kylecueters/Scrapers/main/en_Torrent/torrentgalaxy.json",
+      "https://raw.githubusercontent.com/kylecueters/Scrapers/main/en_Torrent/kickass.json",
+      "https://raw.githubusercontent.com/kylecueters/Scrapers/main/en_Torrent/solid.json"
    ],
    "3":[
-      "https://raw.githubusercontent.com/lalitjoshi06/Scrapers/main/en_Torrent/bitlord.json",
-      "https://raw.githubusercontent.com/lalitjoshi06/Scrapers/main/en_Torrent/torrentdownload.json",
-      "https://raw.githubusercontent.com/lalitjoshi06/Scrapers/main/en_Torrent/limetorrents.json"
+      "https://raw.githubusercontent.com/kylecueters/Scrapers/main/en_Torrent/bitlord.json",
+      "https://raw.githubusercontent.com/kylecueters/Scrapers/main/en_Torrent/torrentdownload.json",
+      "https://raw.githubusercontent.com/kylecueters/Scrapers/main/en_Torrent/limetorrents.json"
    ]
 }
