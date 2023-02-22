@@ -1,5 +1,6 @@
 {
    "1":[
+      "https://raw.githubusercontent.com/lalitjoshi06/Scrapers/main/en_Torrent/Bitsearch.json",
       "https://raw.githubusercontent.com/lalitjoshi06/Scrapers/main/en_Torrent/animetosho.json",
       "https://raw.githubusercontent.com/lalitjoshi06/Scrapers/main/en_Torrent/nyaa.json",
       "https://raw.githubusercontent.com/lalitjoshi06/Scrapers/main/en_Torrent/1337x.json",
@@ -17,7 +18,6 @@
    "3":[
       "https://raw.githubusercontent.com/lalitjoshi06/Scrapers/main/en_Torrent/bitlord.json",
       "https://raw.githubusercontent.com/lalitjoshi06/Scrapers/main/en_Torrent/torrentdownload.json",
-      "https://raw.githubusercontent.com/lalitjoshi06/Scrapers/main/en_Torrent/Bitsearch.json",
       "https://raw.githubusercontent.com/lalitjoshi06/Scrapers/main/en_Torrent/limetorrents.json"
    ]
 }
