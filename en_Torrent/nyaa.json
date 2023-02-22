@@ -6,7 +6,7 @@
 	"search_url_format_episode": {
 		"string_format": "/?f=0&c=1_0&q=%s+s%se%s&s=seeders&o=desc",
 		"replacement": [
-			"title_lower_dash",
+			"title_lower",
 			"season_text",
 			"episode_text"
 		]
