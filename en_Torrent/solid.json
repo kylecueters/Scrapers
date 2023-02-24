@@ -1,11 +1,10 @@
 {
   "name": "Solid-Torrent",
   "language": [
-    "hi",
     "en"
   ],
   "domains": [
-    "btdig.com"
+    "https://solidtorrents.to"
   ],
   "base_url": "https://solidtorrents.to",
   "search_url_format_episode": {
