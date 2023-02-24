@@ -6,7 +6,7 @@
 	"search_url_format_episode": {
 		"string_format": "/?f=0&c=1_2&q=%s+s0%se0%s&s=size&o=desc",
 		"replacement": [
-			"title_lower",
+			"title",
 			"season_text",
 			"episode_text"
 		]
@@ -23,7 +23,7 @@
 	"search_url_format_season_pack": {
 		"string_format": "/?f=0&c=1_2&q=%s&s=size&o=desc",
 		"replacement": [
-			"title_lower"
+			"title"
 		]
 	},
 	"more_pages_indicator": "",
